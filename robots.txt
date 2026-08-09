@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://enggv.github.io/darida-art-site/sitemap.xml
+Sitemap: https://daridaart.com/sitemap.xml
