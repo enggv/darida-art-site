@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "gvLabSourceCommit": "2ba52b7b40fb1cdc5a9d93ef7aa84996c7f4855c",
-  "daridaSourceCommit": "2ba52b7b40fb1cdc5a9d93ef7aa84996c7f4855c",
+  "gvLabSourceCommit": "e6f703c0d438310e6f41b15c69a338632f1bf1c5",
+  "daridaSourceCommit": "e6f703c0d438310e6f41b15c69a338632f1bf1c5",
   "frameCatalogExportId": "darida-20260818t090437787897z",
   "frameCatalogProcessingRunId": "20260818T090437.787897Z",
   "publicPackageDigest": "01e7ae245638ffdc539e3a9056a88cd350fd4d994fe133b51e099a95ae1097de",
   "buildMode": "custom-domain",
-  "buildTimestamp": "2026-08-24T06:45:21.455Z",
+  "buildTimestamp": "2026-08-29T14:09:42.158Z",
   "publicDeploymentCommit": null
 }
